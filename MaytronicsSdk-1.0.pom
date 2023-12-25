@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>maytronics.iot.sdk</groupId>
   <artifactId>MaytronicsSdk</artifactId>
-  <version1.2</version>
+  <version>1.2</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
